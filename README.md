@@ -1,8 +1,9 @@
 # Chuck Norris Jokes CLI
 
-![Tests](https://github.com/USERNAME/REPO/workflows/Tests/badge.svg)
+![Tests](https://github.com/hallibgl/chucknorris-cli/workflows/Tests/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
 
 A simple, portfolio-ready command-line tool that fetches data from the public [Chuck Norris API](https://api.chucknorris.io/).  
 Built with argparse, tested with pytest (including mocked API calls), and wired up to GitHub Actions CI.
